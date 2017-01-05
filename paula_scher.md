@@ -72,8 +72,6 @@ Paula Scher is one of those names that I keep hearing mentioned in conversation 
 
 # Bibliography
 
-References
-
 Eyemagazine.com. (2016). Eye Magazine | Blog | Bigger is better. [online] Available at: http://www.eyemagazine.com/blog/post/bigger-is-better [Accessed 3 Dec. 2016].
 
 Eyemagazine.com. (2016). Eye Magazine | Feature | Reputations: Paula Scher. [online] Available at: http://www.eyemagazine.com/feature/article/reputations-paula-scher [Accessed 3 Dec. 2016].
