@@ -11,5 +11,5 @@ https://garwin00.github.io/paula_scher/
 - More Images / Header replacement
 - <s>Smoothscroll.js</s>
 - Responsive tweaks
-- <s>Fix code indents</s> - NOT ON MASTER BRANCH
+- <s>Fix code indents</s> - NOT ON MASTER BRANCH, NEEDS MERGE
 - Minify
