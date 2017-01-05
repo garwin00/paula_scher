@@ -4,7 +4,7 @@
 
 View it here:
 
-https://garwin00.github.io/Paula-Scher/
+https://garwin00.github.io/paula_scher/
 
 **TO DO:**
 
