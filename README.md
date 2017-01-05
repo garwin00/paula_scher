@@ -8,7 +8,7 @@ https://garwin00.github.io/Paula-Scher/
 
 **TO DO:**
 
-- More Images
+- More Images / Header replacement
 - Smoothscroll.js
 - Responsive tweaks
 - Fix code indents
