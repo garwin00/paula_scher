@@ -9,7 +9,7 @@ https://garwin00.github.io/paula_scher/
 **TO DO:**
 
 - More Images / Header replacement
-- Smoothscroll.js
+- <s>Smoothscroll.js</s>
 - Responsive tweaks
 - Fix code indents
 - Minify
