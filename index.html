@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="css/style.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans" rel="stylesheet">
+    <script src="js/smooth-scroll.js"></script>
     <title>Paula Scher</title>
 </head>
 
@@ -16,15 +17,15 @@
 
     <nav>
         <ul>
-            <li><a href="#life">The Life</a></li>
+            <li><a data-scroll href="#life">The Life</a></li>
             <li class="dropdown">
                 <a href="javascript:void(0)" class="dropbtn">The Work</a>
                 <div class="dropdown-content">
-                    <a href="#kands">Koppel &amp; Scher, Pentagram and Teaching</a>
-                    <a href="#publictheatre">The Public Theatre</a>
-                    <a href="#environmental">Environmental Graphics</a>
-                    <a href="#highline">Friends of the High Line</a>
-                    <a href="#maps">Maps</a>
+                    <a data-scroll href="#kands">Koppel &amp; Scher, Pentagram and Teaching</a>
+                    <a data-scroll href="#publictheatre">The Public Theatre</a>
+                    <a data-scroll href="#environmental">Environmental Graphics</a>
+                    <a data-scroll href="#highline">Friends of the High Line</a>
+                    <a data-scroll href="#maps">Maps</a>
                 </div>
             </li>
         </ul>
@@ -169,5 +170,8 @@
             </section>
     </div>
 </footer>
+<script>
+	smoothScroll.init();
+</script>
 </body>
 </html>
