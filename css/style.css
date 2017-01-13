@@ -19,6 +19,10 @@
     padding: 30px 0;
 }
 
+body {
+  background-color: #f5f5f5;
+}
+
 /* Navigation */
 
 nav {
@@ -30,7 +34,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #424242;
+    background-color: yellow;
     text-align: center;
 }
 
@@ -43,14 +47,14 @@ li a, .dropbtn {
     text-align: center;
     padding: 15px;
     text-decoration: none;
-    color: #fff;
+    color: #000;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.2em;
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-    background-color: yellow;
-    color: #424242
+    background-color: #000;
+    color: yellow;
 }
 
 li.dropdown {
@@ -60,13 +64,13 @@ li.dropdown {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #424242;
+    background-color: yellow;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 }
 
 .dropdown-content a {
-    color: #fff;
+    color: #000;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -81,7 +85,7 @@ li.dropdown {
 
 h1, h2, h3 {
     font-family: 'Fjalla One', sans-serif;
-    color: #424242;
+    color: #000;
 }
 
 h1 {
@@ -114,14 +118,14 @@ p {
 }
 
 .intro h2 {
-  color: #fff;
+  color: #f5f5f5;
 }
 
 .intro p {
   font-size: 1.2em;
   line-height: 1.2em;
   width: 65%;
-  color: #fff;
+  color: #f5f5f5;
 }
 
 blockquote p {
@@ -130,7 +134,7 @@ blockquote p {
     text-indent: -.3em;
     padding: 1em 0 2em 1em;
     margin: 0;
-    color: #9e9e9e;
+    color: #424242;
 }
 
 blockquote cite {
@@ -140,13 +144,13 @@ blockquote cite {
 /* footer styling */
 
 footer {
-    background-color: #424242;
+    background-color: #000;
     width: 100%;
 }
 
 footer p {
     font-size: .75em;
-    color: #fff;
+    color: #f5f5f5;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -157,7 +161,7 @@ footer h1 {
 }
 
 .social {
-    color: #fff;
+    color: #f5f5f5;
     text-align: center;
     margin: 20px 0 0 0;
 }
@@ -187,15 +191,11 @@ img {
 /* misc section styling */
 
 #life {
-    background-color: #424242;
+    background-color: yellow;
 }
 
-#life h2 {
-    color: yellow;
-}
-
-#life p {
-    color: #fff;
+#life h2, p {
+  color: #000
 }
 
 
