@@ -8,8 +8,7 @@ https://garwin00.github.io/paula_scher/
 
 **TO DO:**
 
-- More Images / Header replacement
+- <s>More Images / Header replacement</s> STILL NEED A PICTURE OF PAULA
 - <s>Smoothscroll.js</s>
-- Responsive tweaks
-- <s>Fix code indents</s> - NOT ON MASTER BRANCH, NEEDS MERGE
-- Minify
+- <s>Responsive tweaks</s> NB - NAV IS BROKEN ON MOBILE.
+- <s>Fix code indents</s> - SOFT WRAP SUCKS AND I HATE IT. 
