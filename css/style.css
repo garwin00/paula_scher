@@ -47,13 +47,13 @@ li a, .dropbtn {
     text-align: center;
     padding: 15px;
     text-decoration: none;
-    color: #000;
+    color: #212121;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.2em;
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-    background-color: #000;
+    background-color: #212121;
     color: yellow;
 }
 
@@ -70,7 +70,7 @@ li.dropdown {
 }
 
 .dropdown-content a {
-    color: #000;
+    color: #212121;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -85,7 +85,7 @@ li.dropdown {
 
 h1, h2, h3 {
     font-family: 'Fjalla One', sans-serif;
-    color: #000;
+    color: #212121;
 }
 
 h1 {
@@ -109,7 +109,7 @@ p {
     margin-bottom: 1em;
     margin-top: 1em;
     line-height: 1.2em;
-    color: #424242;
+    color: #212121;
 }
 
 .intro:not(p) {
@@ -118,7 +118,7 @@ p {
 }
 
 .intro h2 {
-  color: #f5f5f5;
+  color: yellow;
 }
 
 .intro p {
@@ -144,7 +144,7 @@ blockquote cite {
 /* footer styling */
 
 footer {
-    background-color: #000;
+    background-color: #212121;
     width: 100%;
 }
 
@@ -195,7 +195,7 @@ img {
 }
 
 #life h2, p {
-  color: #000
+  color: #212121;
 }
 
 
