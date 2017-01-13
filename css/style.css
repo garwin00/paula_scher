@@ -85,17 +85,21 @@ h1, h2, h3 {
 }
 
 h1 {
-    font-size: 3.5em;
+    font-size: 4.236em;
     line-height: 3em;
     text-align: center;
     background: url('../img/mapbckg.jpg') no-repeat center center;
 }
 
 h2 {
-    font-size: 2em;
-    line-height: 2.5em;
+    font-size: 2.618em;
+    line-height: 2em;
 }
 
+h3 {
+  font-size: 1.618em;
+  line-height: 2em;
+}
 p {
     margin-bottom: 1em;
     margin-top: 1em;
@@ -104,14 +108,14 @@ p {
 }
 
 .intro {
-    font-size: 1.15em;
-    line-height: 1.3em;
+    font-size: 1.2em;
+    line-height: 1.2em;
     background-color: yellow;
 }
 
 blockquote p {
-    font-size: 1.75em;
-    line-height: 1.5em;
+    font-size: 2.2em;
+    line-height: 1.2em;
     text-indent: -.3em;
     padding: 1em 0 2em 1em;
     margin: 0;
@@ -154,16 +158,19 @@ footer p {
 
 .icons img {
     display: inline-block;
-    margin: 30px 2px;
+    padding: 0 2px;
 }
 
+.icons img:hover {
+  transform: scale(1.1);
+}
 /* images */
 
 img {
     display: block;
     margin: auto;
-    padding: 0;
     max-width: 100%;
+    margin: 20px auto;
 }
 
 /* misc section styling */
@@ -184,7 +191,7 @@ img {
 /* Media Queries */
 
 /*tablet*/
-@media (max-width: 50em) {
+@media (max-width: 55em) {
 
       h1 {
         font-size: 3em;
