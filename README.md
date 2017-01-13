@@ -9,4 +9,4 @@ https://garwin00.github.io/paula_scher/
 - Nav broken on mobile devices
 - Intro section background needs hidden at smaller resolutions
 - Code indents
-- HTML paragraph length
+- No HTML wrapping
