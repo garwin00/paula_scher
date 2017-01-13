@@ -34,7 +34,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: yellow;
+    background-color: #FFEE58;
     text-align: center;
 }
 
@@ -54,7 +54,7 @@ li a, .dropbtn {
 
 li a:hover, .dropdown:hover .dropbtn {
     background-color: #212121;
-    color: yellow;
+    color: #FFEE58;
 }
 
 li.dropdown {
@@ -64,7 +64,7 @@ li.dropdown {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: yellow;
+    background-color: #FFEE58;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 }
@@ -118,7 +118,7 @@ p {
 }
 
 .intro h2 {
-  color: yellow;
+  color: #FFEE58;
 }
 
 .intro p {
@@ -191,7 +191,7 @@ img {
 /* misc section styling */
 
 #life {
-    background-color: yellow;
+    background-color: #FFEE58;
 }
 
 #life h2, p {
