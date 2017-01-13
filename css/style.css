@@ -134,7 +134,6 @@ blockquote p {
     text-indent: -.3em;
     padding: 1em 0 2em 1em;
     margin: 0;
-    color: #424242;
 }
 
 blockquote cite {
@@ -179,6 +178,7 @@ footer h1 {
 .icons img:hover {
   transform: scale(1.1);
 }
+
 /* images */
 
 img {
@@ -193,11 +193,6 @@ img {
 #life {
     background-color: #FFEE58;
 }
-
-#life h2, p {
-  color: #212121;
-}
-
 
 /* Media Queries */
 
