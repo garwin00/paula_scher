@@ -8,6 +8,6 @@ https://garwin00.github.io/paula_scher/
 
 - Nav needs to be responsive, currently disabled at phone resolutions
 - <s>Intro section background needs hidden at smaller resolutions</s>
-- Footer Spacing
+- <s>Footer Spacing</s>
 - No HTML wrapping
 - Code needs validated and tidied.
