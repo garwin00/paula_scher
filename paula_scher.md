@@ -21,7 +21,8 @@ After graduation Scher moved to New York to take her first job as a layout artis
 In 1972 Scher began working for CBS records in the advertising and promotion department but she wasn't able to do what she really wanted, which was album artwork so she moved to Atlantic Record to take the role of Art Director where she was able to work with both album artwork *and* promotional material. In this position Scher worked closely with illustrators and artists to create art for musicians. She stayed in this role for two years to gain experience before subsequently moving back to CBS Records in 1974 when she was offered the position of East Coast Art Director in the Cover department. During her time at CBS Scher oversaw over 125 album covers a year and earned four Grammy nominations. At CBS, Scher started experimenting heavily with Art Nouveau and constructivist typography because the she couldn't afford to keep putting all of the studio's budget into imagery. She didn't know it at the time, but this experimentation would make her one of the most notable names in the post-modernism movement.
 
 >She preferred to invoke a mood or stage a mysterious scenario than provide literal depictions of bands and performers.
-Ellen Lupton, Curator at Cooper-Hewitt National Design Museum
+
+>Ellen Lupton, Curator at Cooper-Hewitt National Design Museum
 
 Scher worked with multiple prominent names, including the cover for Boston's 6m selling debut record and creating the typographic "Best of Jazz" series posters. Scher says that the musicians preferred to work closely with her in the art department as it felt "less corporate". These artists had to sign off on all of her work, which taught Paula the importance of presentation.
 
@@ -68,7 +69,9 @@ In 2011, Scher published a collection of her maps along with sketches and notes 
 
 # Conclusions
 
-Paula Scher is one of those names that I keep hearing mentioned in conversation but before researching this essay I didn't really know too much of her work. I had looked at some of her work for the Public Theatre but everything else was a mystery. I can see now why people think so highly of her work, and why she has been the recipient of over 300 awards. I'm going to continue following her career with interest and when I see some of her work, I'll know just what it took to create.
+Paula Scher is one of those names that I keep hearing mentioned in conversation but before researching this essay I didn't really know too much of her work. I had looked at some of her work for the Public Theatre but everything else was a mystery. Looking at what I've seen from her I can see now why people think so highly of her work, and why she has been the recipient of over 300 awards. I'm going to continue following her career with interest and when I see some of her work, I'll know just what it took to create. Her attention to detail and ability to break conventions is something that I've come to really admire, and I look forward to seeing what she does in future. I'd just like to end with this quote that I found sums up Paula's approach to creativity:
+
+>“Creativity isn't about the advantage or disadvantage of a specific time or culture. Creativity is something that comes internally from a human being having a genuine mistrust of rules. And that may be the constant. It's almost like there's some rebellion in it.”
 
 # Bibliography
 
