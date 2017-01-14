@@ -106,7 +106,7 @@ h3 {
 }
 
 p {
-    margin: 20px 0;
+    margin: 1.2em 0;
     line-height: 1.2em;
     color: #212121;
 }
@@ -210,7 +210,8 @@ img {
 
       .intro {
         background-image:none;
-      }%
+      }
+
 }
 
 /*phone*/
@@ -251,4 +252,5 @@ img {
       nav {
         display: none; /* turned it off on mobile, need to read up on responsive nav */
       }
+
 }
