@@ -4,7 +4,7 @@
 
 Paula Scher is a popular contemporary American graphic designer who has gained a following for her eclectic approach to typography and her reputation for thinking outside the box. With a career spanning four decades, Paula is a cultural icon and her work is exhibited all over the world. She is known for environmental graphics, branding and identity design and her work with typography  during her time at the large Pentagram design firm. In 1991 Scher was offered the position of principal at Pentagram, the first female to be offered the position.
 
-## The Life
+## The Early Life
 
 Paula Scher was born on October 6th 1948 in Virginia but her parents moved around a lot so she also grew up in Philadelphia and Washington DC before finally settling in Maryland where she attended Silver Spring Elementary School. She was always interested in art and design as a child, using it as an escape from the what she describes as an unhappy childhood. She recalls having her interest piqued at the age of five by an early cover for South Pacific that sparking her interest in design.
 
@@ -14,7 +14,7 @@ After high school Scher attended the Tyler School of Arts in Pennsylvania during
 
 Scher completed her Bachelor in Fine Arts in 1970, even though her parents were initially skeptical of her decision. Her mother forced her to finish a teaching certificate so that she had something to fall back on had it gone sour. Her father invented a device called Stereo Templates in the basement of the family home that created distortion-free aerial photographs during his time working for the United States Geological Survey as a photogrammetric engineer. Paula would later draw on this for inspiration when creating her iconic hand-painted maps.
 
-## The Work
+## Her Notable Works
 
 After graduation Scher moved to New York to take her first job as a layout artist for Random House's Children's book division, designing layout for children's books and ignoring her mother's advice against taking the position and moving away.
 
@@ -67,7 +67,7 @@ The beautiful thing about Paula's maps is that they are only sort-of right. Thin
 
 In 2011, Scher published a collection of her maps along with sketches and notes in "Paula Scher: Maps" and while I've yet to pick up a copy, it's something that I've got on my shopping list.
 
-# Conclusions
+# What do I think?
 
 Paula Scher is one of those names that I keep hearing mentioned in conversation but before researching this essay I didn't really know too much of her work. I had looked at some of her work for the Public Theatre but everything else was a mystery. Looking at what I've seen from her I can see now why people think so highly of her work, and why she has been the recipient of over 300 awards. I'm going to continue following her career with interest and when I see some of her work, I'll know just what it took to create. Her attention to detail and ability to break conventions is something that I've come to really admire, and I look forward to seeing what she does in future. I'd just like to end with this quote that I found sums up Paula's approach to creativity:
 
