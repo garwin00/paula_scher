@@ -1,4 +1,3 @@
-
 /* Page Reset */
 
 * {
@@ -10,17 +9,17 @@
 
 /* Initial Container Style */
 
+body {
+  background-color: #f5f5f5;
+}
+
 .container {
     margin: auto;
     width: 80%;
     max-width: 800px;
     line-height: 1.8em;
     font-family: 'Open Sans', sans-serif;
-    padding: 30px 0;
-}
-
-body {
-  background-color: #f5f5f5;
+    padding: 20px 0;
 }
 
 /* Navigation */
@@ -49,7 +48,7 @@ li a, .dropbtn {
     text-decoration: none;
     color: #212121;
     font-family: 'Open Sans', sans-serif;
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 
 li a:hover, .dropdown:hover .dropbtn {
@@ -75,6 +74,7 @@ li.dropdown {
     text-decoration: none;
     display: block;
     text-align: left;
+    border-top: 1px solid #424242;
 }
 
 .dropdown:hover .dropdown-content {
@@ -106,8 +106,7 @@ h3 {
 }
 
 p {
-    margin-bottom: 1em;
-    margin-top: 1em;
+    margin: 20px 0;
     line-height: 1.2em;
     color: #212121;
 }
@@ -128,12 +127,13 @@ p {
   color: #f5f5f5;
 }
 
-blockquote p {
-    font-size: 2.2em;
+blockquote {
+    font-size: 1.5em;
     line-height: 1.2em;
     text-indent: -.3em;
-    padding: 1em 0 2em 1em;
+    padding: 1em;
     margin: 0;
+    color: #9e9e9e;
 }
 
 blockquote cite {
@@ -162,7 +162,8 @@ footer h1 {
 .social {
     color: #f5f5f5;
     text-align: center;
-    margin: 20px 0 0 0;
+    padding: 0;
+    margin: 40px 0 0 0;
 }
 
 .social a {
@@ -172,11 +173,11 @@ footer h1 {
 
 .icons img {
     display: inline-block;
-    padding: 0 2px;
+    padding: 20px 3px 0 3px;
 }
 
 .icons img:hover {
-  transform: scale(1.1);
+  transform: scale(1.25);
 }
 
 /* images */
@@ -209,8 +210,7 @@ img {
 
       .intro {
         background-image:none;
-      }
-
+      }%
 }
 
 /*phone*/
@@ -227,11 +227,17 @@ img {
       .intro {
         font-size: 1.1em;
         line-height: 1.1em;
+
       }
 
       .intro p {
-        width: 90%;
+        width: 100%;
         font-size: 1em;
+      }
+
+      .intro:not(p) {
+        background-image: none;
+        background-color: #212121;
       }
 
       blockquote p {
