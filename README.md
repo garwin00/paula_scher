@@ -6,7 +6,6 @@ https://garwin00.github.io/paula_scher/
 
 ### Known Issues :
 
-- Nav broken on mobile devices
+- Nav needs to be responsive, currently disabled at phone resolutions
 - <s>Intro section background needs hidden at smaller resolutions</s>
-- Code indents
 - No HTML wrapping
