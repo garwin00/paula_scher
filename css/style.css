@@ -216,7 +216,7 @@ img {
 /*phone*/
 @media (max-width: 38em) {
 
-      h1 {
+      h1, footer h1 {
         font-size: 2em;
       }
 
